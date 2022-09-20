@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.add-button
+{
+    margin: 0 auto;
+    width: 50%;
+}
+.add-button button
+{
+    margin-top: 5px;
+}
+.main{
+    margin: 0 auto;
+    width: 50%;
+    min-height: 500px;
+    margin-top: 40px;
+}
+.topic
+{
+    height: 50px;
+    width: 100%;
+    background-color:firebrick;
+    text-align: center;
+    color:white;
+}
+.forTable
+{
+    min-height: 350px;
+}
+.edit-box
+{
+    margin: 0 auto;
+    width: 50%;
+}
